@@ -1,0 +1,98 @@
+{
+    "users":[
+
+        { "userName":"Sam", "ID":"01", "info": {
+        	"age":30, 
+        	"email":"sampleone@gmail.com",
+        	"semester":3
+
+        }},
+        { "userName":"Jake", "ID":"02", "info": {
+        	"age":18, 
+        	"email":"sampletwo@gmail.com",
+        	"semester":1
+
+        }},
+        { "userName":"Jenny", "ID":"03", "info": {
+        	"age":67, 
+        	"email":"samplethree@gmail.com",
+        	"semester":7
+
+        }},
+        { "userName":"Lenny", "ID":"04", "info": {
+        	"age":36, 
+        	"email":"samplefour@gmail.com",
+        	"semester":5
+
+        }},
+        { "userName":"Joe", "ID":"05", "info": {
+        	"age":45, 
+        	"email":"samplefive@gmail.com",
+        	"semester":1
+
+        }},
+        { "userName":"Tyler", "ID":"06", "info": {
+        	"age":17, 
+        	"email":"samplesix@gmail.com",
+        	"semester":2
+
+        }},
+        { "userName":"Noah", "ID":"07", "info": {
+        	"age":27, 
+        	"email":"sampleseven@gmail.com",
+        	"semester":8
+
+        }},
+        { "userName":"Brandon", "ID":"08", "info": {
+        	"age":45, 
+        	"email":"sampleeight@gmail.com",
+        	"semester":3
+
+        }},
+        { "userName":"James", "ID":"09", "info": {
+        	"age":40, 
+        	"email":"samplenine@gmail.com",
+        	"semester":7
+
+        }},
+        { "userName":"Alexander", "ID":"10", "info": {
+        	"age":59, 
+        	"email":"sampleten@gmail.com",
+        	"semester":8
+
+        }},
+        { "userName":"Noah", "ID":"11", "info": {
+        	"age":78, 
+        	"email":"sampleeleven@gmail.com",
+        	"semester":3
+
+        }},
+        { "userName":"Thomas", "ID":"12", "info": {
+        	"age":32, 
+        	"email":"sampletwelve@gmail.com",
+        	"semester":2
+
+        }},
+        { "userName":"Ryan", "ID":"13", "info": {
+        	"age":26, 
+        	"email":"samplethirteen@gmail.com",
+        	"semester":7
+
+        }},
+        { "userName":"Jordan", "ID":"14", "info": {
+        	"age":35, 
+        	"email":"samplefourteen@gmail.com",
+        	"semester":9
+
+        }},
+        { "userName":"Robert", "ID":"15", "info": {
+        	"age":52, 
+        	"email":"samplefifteen@gmail.com",
+        	"semester":1
+
+        }}
+    ]
+}
+
+
+
