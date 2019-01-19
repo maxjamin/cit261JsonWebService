@@ -23,7 +23,8 @@ function findUser()
 
 	  		console.log(myname === myObj.users[x].userName);
 	  		if(myname === myObj.users[x].userName)
-	  		{ 	console.log("found it\n");
+	  		{ 	
+	  			console.log("found it\n");
 	  			console.log(myObj.users[x].info.age)
 
 	  			found = 1; 
@@ -45,7 +46,7 @@ function findUser()
 		}
 
 	};
-	xmlhttp.open("GET", "demo.txt", true);
+	xmlhttp.open("GET", "demo.json", true);
 	xmlhttp.send();
 
 	
@@ -76,7 +77,7 @@ function checkUser()
 	    document.getElementById("demo").innerHTML = text; //myObj.users[0].userName;
 	  }
 	};
-	xmlhttp.open("GET", "demo.txt", true);
+	xmlhttp.open("GET", "demo.json", true);
 	xmlhttp.send();
 
 }
